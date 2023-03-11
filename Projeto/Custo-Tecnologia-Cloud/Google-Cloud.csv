@@ -1,0 +1,17 @@
+name,quantity,region,service_id,sku,product_description,"unit_price, USD","total_price, USD",notes
+Sole Tenancy Instance Core running in Sao Paulo,96,southamerica-east1,6F81-5844-456A,F7DE-AF3B-9E08,CP-COMPUTEENGINE-N1-PREDEFINED-VM-CORE,8.0288,770.7648
+Sole Tenancy Instance RAM running in Sao Paulo,624,southamerica-east1,6F81-5844-456A,4B1F-E781-AC83,CP-COMPUTEENGINE-N1-PREDEFINED-VM-RAM,1.076,671.4240000000001
+Sole Tenancy Premium for Sole Tenancy Instance Core running in Sao Paulo,96,southamerica-east1,6F81-5844-456A,8802-17EC-0FAE,SOLE_TENANCY_PREMIUM,0.80288,77.07648
+Sole Tenancy Premium for Sole Tenancy Instance RAM running in Sao Paulo,624,southamerica-east1,6F81-5844-456A,7861-F324-E54C,SOLE_TENANCY_PREMIUM,0.1076,67.1424
+Commitment v1: E2 Cpu in Sao Paulo for 1 Year,2920,southamerica-east1,6F81-5844-456A,1018-5BD0-1AF6,CP-COMPUTEENGINE-VMIMAGE-E2-STANDARD-2,0.021813246,63.69467832,2 x 
+Commitment v1: E2 Ram in Sao Paulo for 1 Year,11680,southamerica-east1,6F81-5844-456A,5E8A-114D-3C73,CP-COMPUTEENGINE-VMIMAGE-E2-STANDARD-2,0.002923357,34.14480976,2 x 
+Balanced PD Capacity in Sao Paulo,4000,southamerica-east1,6F81-5844-456A,6F9F-D10A-6613,CP-COMPUTEENGINE-STORAGE-PD-READONLY,0.15,600
+,,,,,,,,
+,,,,,,Total Price:,2284.24716808,
+,,,,,,* Sustained use discount (SUD) is not included. You may need to apply discounts separately for each SKU,,
+,,,,,,,,
+"Prices are in US dollars, effective date is 2023-03-11T19:42:58.226Z.",,,,,,,,
+,,,,,,,,
+The estimated fees provided by Google Cloud Pricing Calculator are for discussion purposes only and are not binding on either you or Google. Your actual fees may be higher or lower than the estimate.,,,,,,,,
+,,,,,,,,
+Url to the estimate:,https://cloud.google.com/products/calculator/#id=3bac695d-aefd-4f5f-9ff6-fbea696147cf,,,,,,,

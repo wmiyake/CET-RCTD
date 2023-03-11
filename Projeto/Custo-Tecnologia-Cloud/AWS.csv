@@ -1,0 +1,15 @@
+ÿResumo da estimativa
+Custo inicial,Custo mensal,Total 12 months cost,Moeda
+0,1142.9394,13715.27,USD
+,,* Inclui um custo inicial
+
+
+Estimativa detalhada
+Hierarquia de grupos,Região,Descrição,Serviço,Pagamento adiantado,Mensal,First 12 months total,Moeda,Resumo da configuração
+My Estimate,América do Sul (São Paulo),,Amazon EC2 ,0,359.2044,4310.45,USD,"Locação (Instâncias compartilhadas), Sistema operacional (Linux), DT Entrada: Not selected (0 TB por mês), DT Saída: Not selected (0 TB por mês), DT Intrarregião: (0 TB por mês), Carga de trabalho (Monthly, Linha de base: 1, Pico: 2, Duração do pico: 3 Dia 0 Hr 0 Min), Habilitar monitoramento (desabilitada), Instância do EC2 avançada (t3a.small), Pricing strategy ( 1 Year  None upfront), Quantidade de armazenamento (2 TB), Frequência de snapshots (Sem armazenamento de snapshots)"
+My Estimate,América do Sul (São Paulo),,Amazon Aurora MySQL-Compatible,0,783.735,9404.82,USD,"Registros de alteração por declaração (0.38), Tipo de instância (db.r6g.large), Nós (1), Utilização (100 %Utilized/Month), Família de instâncias (Memory optimized), Modelo de preço (OnDemand), Quantidade de armazenamento (2 TB), Armazenamento de backup adicional (50 GB), Tamanho total do backup processado para exportação (GB) (1 por mês)"
+
+
+
+Confirmação
+"* A Calculadora de Preços da AWS fornece apenas uma estimativa de suas taxas da AWS e não inclui nenhuma taxa aplicável. Suas taxas reais dependem de vários fatores, inclusive de seu uso real dos serviços da AWS."
